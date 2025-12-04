@@ -1,2 +1,2 @@
-# index.html..
+# index.html.
 repositorio index.html
